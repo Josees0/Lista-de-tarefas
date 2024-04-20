@@ -1,28 +1,27 @@
-#lista de tarefas
+# Lista de tarefas
+tasks = []
 
-tasks=[]
-
-#Adicionar tarefa
+# Adicionar tarefa
 def add_task(task):
     tasks.append(task)
     print("Tarefa adicionada com sucesso")
 
-#visualizar tarefas
+# Listar tarefas
 def list_tasks():
     if tasks:
-        print("Lista de tarefas")
+        print("Lista de tarefas:")
         for index, task in enumerate(tasks, start=1):
-            'print(f"{index}.{tarefa}")'
+            print(f"{index}. {task}")
     else:
-            print("Não há tarefas na lista")
+        print("Não há tarefas na lista")
 
-#remover tarefa
+# Remover tarefa
 def remove_task(index):
     try:
         del tasks[index - 1]
         print("Tarefa removida com sucesso")
     except IndexError:
-        print("Indice inválido. Tarefa não encontrada")
+        print("Índice inválido. Tarefa não encontrada")
 
 while True:
     print("\nEscolha uma opção:")
@@ -34,13 +33,13 @@ while True:
     choice = input("Digite o número da opção: ")
 
     if choice == "1":
-        'task input("Digite uma nova tarefa")'
-        add_task('task')
+        task = input("Digite uma nova tarefa: ")
+        add_task(task)
     elif choice == "2":
-        'lista_tasks()'
+        list_tasks()
     elif choice == "3":
         if tasks:
-            index = int(input("Digite o número da tarefa que deseja remover"))
+            index = int(input("Digite o número da tarefa que deseja remover: "))
             remove_task(index)
         else:
             print("Não há tarefas para remover.")
@@ -48,4 +47,4 @@ while True:
         print("Saindo da lista de tarefas...")
         break
     else:
-        print("Opção inválida, Tente novamente.")
+        print("Opção inválida. Tente novamente.")
