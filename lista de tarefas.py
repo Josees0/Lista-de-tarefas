@@ -7,7 +7,7 @@ def add_task(task):
     tasks.append(task)
     print("Tarefa adicionada com sucesso")
 
-#listar tarefas
+#visualizar tarefas
 def list_tasks():
     if tasks:
         print("Lista de tarefas")
