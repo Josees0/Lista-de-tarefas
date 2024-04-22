@@ -4,7 +4,7 @@
 
 Para rodar essa lista de tarefas você precisa-rá ter o python instalado:
 
-## Como instalar o python
+### Como instalar o python
 
 ```bash
 No site python.org
