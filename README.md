@@ -11,7 +11,8 @@ No site python.org
 Aperte na aba Downloads
 Procure a versão mais recente e que seja seu sistema operacional
 Verifique se seu computador é x64 ou x86
-Após instalar inicie o setup e aperte no next para continuar a instalação python.
+Após instalar inicie o setup
+Aperte na opção next para continuar a instalação python
 ```
 
 ### Como usar:
