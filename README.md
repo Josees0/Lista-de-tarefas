@@ -1,6 +1,6 @@
 # Lista de tarefas
 
-Testado com Python 3.12.3 - Vs Code - data indeterminada
+##### Testado com Python 3.12.3 - Vs Code - data indeterminada
 
 Para rodar essa lista de tarefas você precisa-rá ter o python instalado:
 
