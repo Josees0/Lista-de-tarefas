@@ -7,11 +7,11 @@ Para rodar essa lista de tarefas você precisa-rá ter o python instalado:
 ##Como instalar o python
 
 ```bash
-No site do python.org
+No site python.org
 Aperte na aba Downloads
-Procure a versão mais recente e que seja do seu sistema operacional
+Procure a versão mais recente e que seja seu sistema operacional
 Verifique se seu computador é x64 ou x86
-Após instalar inicie o setup e aperte no next para continuar a instalação do python.
+Após instalar inicie o setup e aperte no next para continuar a instalação python.
 ```
 
 ###Como usar:
