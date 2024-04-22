@@ -2,7 +2,7 @@
 
 ##### Testado com Python 3.12.3 - Vs Code - data indeterminada
 
-Para rodar essa lista de tarefas você precisa-rá ter o python instalado:
+Para rodar essa lista de tarefas você precisará ter o python instalado:
 
 ### Como instalar o python
 
