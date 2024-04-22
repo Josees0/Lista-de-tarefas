@@ -1,7 +1,21 @@
-# Lista de tarefas
+#Lista de tarefas
 
-É uma lista de tarefas simples, foi meu primeiro projeto em python e decidi postá-lo no github mais como um teste.
+Testado com Python 3.12.3 - Vs Code - data indeterminada
 
-Você pode adicionar tarefas, verificar a lista de tarefas, remover uma tarefa da lista e sair da lista de tarefas.
+Para rodar essa lista de tarefas você precisa-rá ter o python instalado:
 
-Ela não salva as tarefas inseridas se for fechada, é bem básica.
+##Como instalar o python
+
+```bash
+No site do python.org
+Aperte na aba Downloads
+Procure a versão mais recente e que seja do seu sistema operacional
+Verifique se seu computador é x64 ou x86
+Após instalar inicie o setup e aperte no next para continuar a instalação do python.
+
+###Como usar:
+•Inicie o arquivo lista de tarefas.
+•Verfique as opções.
+•Digite o número da opção que deseja.
+•Há 4 opções Adicionar tarefa, Visualizar lista de tarefa, Remover tarefa e Sair da lista de tarefas.
+
