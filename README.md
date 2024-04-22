@@ -1,4 +1,5 @@
 # Lista de tarefas
-### Este é meu primeiro projeto python no github
-### Ele é sobre uma lista de tarefas simples
-### Você pode adicionar tarefas, ver a lista de tarefas e remover as tarefas que deseja, bem simples
+
+É uma lista de tarefas simples, foi meu primeiro projeto em python e decidi postá-lo no github mais como um teste.
+Você pode adicionar tarefas, verificar a lista de tarefas, remover uma tarefa da lista e sair da lista de tarefas.
+Ela não salva as tarefas inseridas se for fechada, é bem básica.
