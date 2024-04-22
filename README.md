@@ -15,7 +15,7 @@ Após instalar inicie o setup e aperte no next para continuar a instalação pyt
 ```
 
 ### Como usar:
-•Inicie o arquivo lista de tarefas.
-•Verfique as opções.
-•Digite o número da opção que deseja.
-•Há 4 opções Adicionar tarefa, Visualizar lista de tarefa, Remover tarefa e Sair da lista de tarefas.
+- Inicie o arquivo lista de tarefas.
+- Verfique as opções.
+- Digite o número da opção que deseja.
+- Há 4 opções Adicionar tarefa, Visualizar lista de tarefa, Remover tarefa e Sair da lista de tarefas.
