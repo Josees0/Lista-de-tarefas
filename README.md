@@ -12,6 +12,7 @@ Aperte na aba Downloads
 Procure a versão mais recente e que seja do seu sistema operacional
 Verifique se seu computador é x64 ou x86
 Após instalar inicie o setup e aperte no next para continuar a instalação do python.
+```
 
 ###Como usar:
 •Inicie o arquivo lista de tarefas.
