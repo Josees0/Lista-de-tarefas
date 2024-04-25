@@ -48,3 +48,4 @@ while True:
         break
     else:
         print("Opção inválida. Tente novamente.")
+#pode usar esse código a vontade @josees0
